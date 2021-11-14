@@ -1,8 +1,7 @@
 ### Welcome to my profile! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOsmaston&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJOsmaston&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AJOsmaston&show_icons=true&theme=midnight-purple" />
+ <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJOsmaston&layout=compact" />
 
 <!--
 **AJOsmaston/AJOsmaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
