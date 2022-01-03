@@ -15,7 +15,7 @@ I am a Graduate in Zoology from the University of Nottingham. I have recently fi
 - :video_game: I'm an avid PC gamer (currently exploring Outer Wilds)
 - ⚡ Fun Fact: My dehumidifiers name is Bertha
 
-<!-- View my Github CV: https://github.com/AJOsmaston/CV -->
+[View my Github CV!](https://github.com/AJOsmaston/CV)
 
 ## Top Projects
 
