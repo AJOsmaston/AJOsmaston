@@ -22,7 +22,8 @@ I am a Graduate in Zoology from the University of Nottingham. I have recently fi
 Solo:
 - [Instagram Clone](https://github.com/AJOsmaston/instagram-challenge)
 - [Twitter Clone](https://github.com/AJOsmaston/frontend-api-challenge)
-- [Codewars (NEW)](https://github.com/AJOsmaston/codewars)
+- [Codewars](https://github.com/AJOsmaston/codewars)
+- [Feedback UI](https://github.com/AJOsmaston/feedback-ui)
 
 Group:
 - [Backend Clicking Game](https://github.com/AJOsmaston/EP3-Gaming-BE)
