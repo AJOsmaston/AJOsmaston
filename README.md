@@ -6,16 +6,13 @@
  
 </p>
  
-I am a Graduate in Zoology from the University of Nottingham. I have recently finished an intensive [16-week software development Bootcamp at Makers Academy](https://www.makers.tech/become/makers-academy), and am currently looking for a full time, full-stack or backend focused role in London or remote.  <br>
+I am a Graduate in MSci Zoology from the University of Nottingham. In 2022, I finished an intensive [16-week software development Bootcamp at Makers Academy](https://www.makers.tech/become/makers-academy), and soon after, I got my first job in Software Engineering. I am now a developer at Experian.<br>
 
 - :male_sign: Pronouns: He/Him
-- :muscle: I'm currently developing a full-stack app designed to track your workouts
-- :snake: I’m currently learning Python
+- :muscle: I'm currently developing a web API to help on my fitness journey
 - :owl: My Spirit Animal is an Owl
-- :video_game: I'm an avid PC gamer (currently exploring Outer Wilds)
-- ⚡ Fun Fact: My dehumidifiers name is Bertha
-
-[View my Github CV!](https://github.com/AJOsmaston/CV)
+- :video_game: I'm an avid PC gamer (currently exploring the Starfield Universe)
+- ⚡ Fun Fact: My dehumidifier's name is Bertha
 
 ## Top Projects
 
@@ -31,7 +28,6 @@ Group:
 - [Facebook Clone](https://github.com/AJOsmaston/Acebook-st-bals)
 - [Airbnb Clone](https://github.com/AJOsmaston/bnb_project)
 
- 
 ## Statistics
 
 <p>  
